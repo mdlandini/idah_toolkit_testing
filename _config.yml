@@ -4,8 +4,8 @@ theme: just-the-docs
 
 url: https://mdlandini.github.io/idah_toolkit_testing
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 # Enable or disable the site search
 # Supports true (default) or false
