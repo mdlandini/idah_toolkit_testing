@@ -1,7 +1,0 @@
----
-layout: default
-title: Section 1 Nav Page
-nav_order: 2
-has_children: true
----
-Testing Page for Navigation Bar
