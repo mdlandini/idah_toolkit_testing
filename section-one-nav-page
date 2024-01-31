@@ -1,6 +1,6 @@
 ---
 layout: default
-title: section 1
+title: Section 1 Nav Page
 nav_order: 2
 has_children: true
 ---
