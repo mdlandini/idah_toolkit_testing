@@ -4,8 +4,10 @@ title: Transcript Best Practices
 parent: Post-Production
 nav_order: 1
 ---
+# Transcript Best Practices Post-Production
+{: .no_toc }
 
-# This is broken down into three sections:
+## This is broken down into three sections:
 {: .no_toc .text-delta }
 
 1. TOC
