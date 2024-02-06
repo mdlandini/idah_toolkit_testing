@@ -16,28 +16,20 @@ nav_order: 1
 ## How to Download and Open an Audio File 
 This section covers how to download and open an audio file from your computer. During the collection event, you will have retrieved the audio file from the recording device, renamed it, and stored it in a folder.  
  
-Note: If you are using an online storage software such as OneDrive or Google Drive, and you are not using a transcription software, you may not need to download the file to your local computer. 
+> Note: If you are using an online storage software such as OneDrive or Google Drive, and you are not using a transcription software, you may not need to download the file to your local computer. 
  
 ### How to Download an Audio File 
 > Note: The screen captures used during this section are from Google Drive and will use an arbitrary Object ID, used to show the file naming convention suggested earlier in this guide. 
  
 The steps are as follows to download an audio file: 
-Click on the three dots next to the file name 
-
-
- 
-Select “Download” 
-
-
- 
- 
-Locate the file on your local computer. By default, this will be your Downloads folder 
-
+1. Click on the three dots next to the file name 
+2. Select “Download” 
+3. Locate the file on your local computer. By default, this will be your Downloads folder 
  
 ### How to Open an Audio File 
 To open an audio file, simply double-click on the file on your computer. This will open the file in your computer’s default media player. This is the common way to open an audio file to transcribe it without the use of a transcription software. 
  
-Note: If you are using audio captured on a smartphone, you might encounter some errors when trying to open audio captured on any Android device on an iOS/Mac device and vice versa. This will normally be caused by a file-format difference. We are still trying to troubleshoot this problem. 
+> Note: If you are using audio captured on a smartphone, you might encounter some errors when trying to open audio captured on any Android device on an iOS/Mac device and vice versa. This will normally be caused by a file-format difference. We are still trying to troubleshoot this problem. 
  
 For opening an audio file using a transcription software, there will traditionally be an “Upload Audio” button. 
 
@@ -48,12 +40,12 @@ This section covers the best practices for transcribing audio files without the 
 This covers the best practices for transcribing an audio file manually. This is a tedious and time-consuming process, so do not be detoured by the process. 
  
 Here are some notes for best practices: 
-Listen to the audio file a few seconds at a time to transcribe. Do not try to transcript larger chunks at one time 
-Replay sections as needed for clarity 
-Some audio players allow for audio to be slowed down. If a section is going too fast, this is an option 
-Adjust the volume level as needed for audio levels. Depending on the quality of the oral history interview, the audio recording may be louder or quieter than normal 
-Write down all spoken words 
-You and your team will need to decide whether or not to include various words and punctuation (see What to Include in a Transcription section) 
+- Listen to the audio file a few seconds at a time to transcribe. Do not try to transcript larger chunks at one time 
+- Replay sections as needed for clarity 
+- Some audio players allow for audio to be slowed down. If a section is going too fast, this is an option 
+- Adjust the volume level as needed for audio levels. Depending on the quality of the oral history interview, the audio recording may be louder or quieter than normal 
+- Write down all spoken words 
+- You and your team will need to decide whether or not to include various words and punctuation (see What to Include in a Transcription section) 
  
 ## Transcribing with Access to Transcription Software 
 This section covers the best practices for transcribing audio files with the use of 3rd-party software.
@@ -61,29 +53,23 @@ This section covers the best practices for transcribing audio files with the use
 We recommend, if possible, to use a Microsoft365 account version of OneDrive for this process. Using Microsoft Word in OneDrive allows for the transcript to be placed in the same folder as the audio file and other files for each contribution. 
 Information on purchasing a Microsoft365 Account can be found here. 
 If you only plan on using Microsoft365, the cost (as of November 2023) is: 
-Personal (1) Account: $6.99/month or $69.99/year 
-Family (up to 6) Account: $9.99/Month or $99.99/year 
-Notes:  
-For this section, all screen captures will be from using Microsoft Word through OneDrive, with a Microsoft365 account. 
-Transcription software is not 100% accurate. Additional clean-up will be needed. 
-If your audio file has more than one language in it, you may have to run the file through the software in each language or you may need to transcribe the second language by hand. 
+- Personal (1) Account: $6.99/month or $69.99/year 
+- Family (up to 6) Account: $9.99/Month or $99.99/year 
+> Notes:  
+> -For this section, all screen captures will be from using Microsoft Word through OneDrive, with a Microsoft365 account. 
+> -Transcription software is not 100% accurate. Additional clean-up will be needed. 
+> -If your audio file has more than one language in it, you may have to run the file through the software in each language or you may need to transcribe the second language by hand. 
  
 ### How to Import an Audio File 
 To import an audio file: 
-Select “Dictate” from the Home Toolbar 
- 
-From the dropdown menu, select “Transcribe” 
- 
- 
-Select “Upload Audio” 
- 
-This menu gives the option to select the language that the audio file is in.  
-If the audio file contains more than one language, see notes above. 
-Select the file from your computer to upload 
-This uploads the audio file to the computer and runs the transcribing program on it. This process takes anywhere from a few seconds to minutes, depending on the file size. 
- 
- 
- 
+1. Select “Dictate” from the Home Toolbar 
+2. From the dropdown menu, select “Transcribe” 
+3. Select “Upload Audio” 
+ This menu gives the option to select the language that the audio file is in.  
+ If the audio file contains more than one language, see notes above. 
+4. Select the file from your computer to upload 
+ This uploads the audio file to the computer and runs the transcribing program on it. This process takes anywhere from a few seconds to minutes, depending on the file size. 
+
 ### The Transcript 
 
  
