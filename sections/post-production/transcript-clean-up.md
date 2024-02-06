@@ -7,7 +7,8 @@ nav_order: 1
 
 # Best Practices for Transcript Post Production 
 This document walks through the best practices to transcribe the oral histories, stories, and memories collected during the day-of collection event. 
- 
+{: .no_toc }
+
 ## This is broken down into three sections:
 {: .no_toc .text-delta }
 
@@ -35,7 +36,7 @@ Select “Download”
 Locate the file on your local computer. By default, this will be your Downloads folder 
 
  
-How to Open an Audio File 
+## How to Open an Audio File 
 To open an audio file, simply double-click on the file on your computer. This will open the file in your computer’s default media player. This is the common way to open an audio file to transcribe it without the use of a transcription software. 
  
 Note: If you are using audio captured on a smartphone, you might encounter some errors when trying to open audio captured on any Android device on an iOS/Mac device and vice versa. This will normally be caused by a file-format difference. We are still trying to troubleshoot this problem. 
