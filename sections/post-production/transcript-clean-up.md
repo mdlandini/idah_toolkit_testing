@@ -40,10 +40,11 @@ To open an audio file, simply double-click on the file on your computer. This wi
 Note: If you are using audio captured on a smartphone, you might encounter some errors when trying to open audio captured on any Android device on an iOS/Mac device and vice versa. This will normally be caused by a file-format difference. We are still trying to troubleshoot this problem. 
  
 For opening an audio file using a transcription software, there will traditionally be an “Upload Audio” button. 
-Transcribing without Access to Transcription Software 
-This section covers the best practices for transcribing audio files without the use of 3rd-party software. This includes: 
-How to transcribe an audio file 
-How to Transcribe an Audio File 
+
+## Transcribing without Access to Transcription Software 
+This section covers the best practices for transcribing audio files without the use of 3rd-party software.
+
+### How to Transcribe an Audio File 
 This covers the best practices for transcribing an audio file manually. This is a tedious and time-consuming process, so do not be detoured by the process. 
  
 Here are some notes for best practices: 
@@ -54,11 +55,8 @@ Adjust the volume level as needed for audio levels. Depending on the quality of 
 Write down all spoken words 
 You and your team will need to decide whether or not to include various words and punctuation (see What to Include in a Transcription section) 
  
-Transcribing with Access to Transcription Software 
-This section covers the best practices for transcribing audio files with the use of 3rd-party software. This includes: 
-How to import an audio file 
-How to view the transcript 
-Best practices for cleaning a transcribed audio file 
+## Transcribing with Access to Transcription Software 
+This section covers the best practices for transcribing audio files with the use of 3rd-party software.
  
 We recommend, if possible, to use a Microsoft365 account version of OneDrive for this process. Using Microsoft Word in OneDrive allows for the transcript to be placed in the same folder as the audio file and other files for each contribution. 
 Information on purchasing a Microsoft365 Account can be found here. 
@@ -70,7 +68,7 @@ For this section, all screen captures will be from using Microsoft Word through 
 Transcription software is not 100% accurate. Additional clean-up will be needed. 
 If your audio file has more than one language in it, you may have to run the file through the software in each language or you may need to transcribe the second language by hand. 
  
-How to Import an Audio File 
+### How to Import an Audio File 
 To import an audio file: 
 Select “Dictate” from the Home Toolbar 
  
@@ -86,7 +84,7 @@ This uploads the audio file to the computer and runs the transcribing program on
  
  
  
-The Transcript 
+### The Transcript 
 
  
 Once the audio file has been transcribed, it will appear in the side panel. 
@@ -135,7 +133,7 @@ The audio file is hyperlinked at the beginning of the transcript. This makes it 
 The transcript is labeled and separated by the speaker, with all the transcriptions grouped under their name 
 Other transcription softwares don’t include the audio file in the transcription and require additional steps to export the transcript into a readable document. This is the reason we recommend using a Microsoft365 account, OneDrive, and Word within OneDrive.  
  
-Best Practices for Cleaning a Generated Transcript 
+### Best Practices for Cleaning a Generated Transcript 
 Transcription software is not 100% accurate.  
  
 Some common erros the software makes include: 
@@ -163,9 +161,9 @@ Transcribe the second language by hand
  
  
  
-What to Include in a Transcription 
+## What to Include in a Transcription 
 This is a common question that we as a team at IDAH constantly struggle with. Do we include every “um” or “like” in the transcript for its full authenticity? Do we go through and correct the grammar? Do we remove the duplicated words? The answer to these and similar questions, unfortunately, is that it is up to you, your team, and the overarching goals of your community archive. 
-For Returning Files to Contributors 
+### For Returning Files to Contributors 
 For returning the contributor’s raw files, clean up for the transcription should be kept to a minimum. This includes: 
 Naming who is speaking throughout the transcript using the naming convention you and your team decide on 
 Flagging words and/or phrases and having another person listen to the transcription for any low-quality or soft-spoken sections 
@@ -174,7 +172,7 @@ Keeping the files and the transcript alteration at a minimum allows for the cont
  
 An example screenshot of a transcript that uses repeated words 
  
-Preparing Files for Upload 
+### Preparing Files for Upload 
 For preparing the transcripts for upload, normally the cleaner the transcript, the better. This includes: 
 Naming who is speaking throughout the transcript using the naming convention you and your team decide on 
 Flagging words and/or phrases and having another person listen to the transcription for any low-quality or soft-spoken sections 
