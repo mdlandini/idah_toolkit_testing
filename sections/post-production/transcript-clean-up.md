@@ -5,10 +5,6 @@ parent: Post-Production
 nav_order: 1
 ---
 
-# Best Practices for Transcript Post Production 
-This document walks through the best practices to transcribe the oral histories, stories, and memories collected during the day-of collection event. 
-{: .no_toc }
-
 ## This is broken down into three sections:
 {: .no_toc .text-delta }
 
