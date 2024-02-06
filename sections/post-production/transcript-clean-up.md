@@ -56,9 +56,9 @@ If you only plan on using Microsoft365, the cost (as of November 2023) is:
 - Personal (1) Account: $6.99/month or $69.99/year 
 - Family (up to 6) Account: $9.99/Month or $99.99/year 
 > Notes:  
-> -For this section, all screen captures will be from using Microsoft Word through OneDrive, with a Microsoft365 account. 
-> -Transcription software is not 100% accurate. Additional clean-up will be needed. 
-> -If your audio file has more than one language in it, you may have to run the file through the software in each language or you may need to transcribe the second language by hand. 
+> For this section, all screen captures will be from using Microsoft Word through OneDrive, with a Microsoft365 account. 
+> Transcription software is not 100% accurate. Additional clean-up will be needed. 
+> If your audio file has more than one language in it, you may have to run the file through the software in each language or you may need to transcribe the second language by hand. 
  
 ### How to Import an Audio File 
 To import an audio file: 
