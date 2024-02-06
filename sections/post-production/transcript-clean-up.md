@@ -4,7 +4,7 @@ title: Transcript Best Practices
 parent: Post-Production
 nav_order: 1
 ---
-# Transcript Best Practices Post-Production
+# Transcript Best Practices
 {: .no_toc }
 
 ## This is broken down into three sections:
