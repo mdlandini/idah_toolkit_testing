@@ -19,7 +19,7 @@ This section covers how to download and open an audio file from your computer. D
 Note: If you are using an online storage software such as OneDrive or Google Drive, and you are not using a transcription software, you may not need to download the file to your local computer. 
  
 ### How to Download an Audio File 
-Note: The screen captures used during this section are from Google Drive and will use an arbitrary Object ID, used to show the file naming convention suggested earlier in this guide. 
+> Note: The screen captures used during this section are from Google Drive and will use an arbitrary Object ID, used to show the file naming convention suggested earlier in this guide. 
  
 The steps are as follows to download an audio file: 
 Click on the three dots next to the file name 
