@@ -65,10 +65,10 @@ To import an audio file:
 1. Select “Dictate” from the Home Toolbar 
 2. From the dropdown menu, select “Transcribe” 
 3. Select “Upload Audio” 
- This menu gives the option to select the language that the audio file is in.  
- If the audio file contains more than one language, see notes above. 
+   This menu gives the option to select the language that the audio file is in.  
+   If the audio file contains more than one language, see notes above. 
 4. Select the file from your computer to upload 
- This uploads the audio file to the computer and runs the transcribing program on it. This process takes anywhere from a few seconds to minutes, depending on the file size. 
+   This uploads the audio file to the computer and runs the transcribing program on it. This process takes anywhere from a few seconds to minutes, depending on the file size. 
 
 ### The Transcript 
 
