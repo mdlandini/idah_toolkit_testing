@@ -39,3 +39,12 @@ search:
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
 color_scheme: "dark"
+
+# Callouts
+# Pre-definded color options: grey-lt, grey-dk, purple, blue, yellow, green, red.
+# To use a custom color, you need to define its 000 and 300 levels in your SCSS files.
+# Note Callout
+callouts:
+  note:
+  title: Note
+  color: blue
