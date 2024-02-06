@@ -18,7 +18,7 @@ This section covers how to download and open an audio file from your computer. D
  
 Note: If you are using an online storage software such as OneDrive or Google Drive, and you are not using a transcription software, you may not need to download the file to your local computer. 
  
-How to Download an Audio File 
+### How to Download an Audio File 
 Note: The screen captures used during this section are from Google Drive and will use an arbitrary Object ID, used to show the file naming convention suggested earlier in this guide. 
  
 The steps are as follows to download an audio file: 
@@ -34,7 +34,7 @@ Select “Download”
 Locate the file on your local computer. By default, this will be your Downloads folder 
 
  
-## How to Open an Audio File 
+### How to Open an Audio File 
 To open an audio file, simply double-click on the file on your computer. This will open the file in your computer’s default media player. This is the common way to open an audio file to transcribe it without the use of a transcription software. 
  
 Note: If you are using audio captured on a smartphone, you might encounter some errors when trying to open audio captured on any Android device on an iOS/Mac device and vice versa. This will normally be caused by a file-format difference. We are still trying to troubleshoot this problem. 
