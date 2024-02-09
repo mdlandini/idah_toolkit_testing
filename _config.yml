@@ -44,7 +44,7 @@ color_scheme: "dark"
 # Pre-definded color options: grey-lt, grey-dk, purple, blue, yellow, green, red.
 # To use a custom color, you need to define its 000 and 300 levels in your SCSS files.
 # Note Callout
-callouts:
-  note:
-  title: "Note:"
-  color: red
+#callouts:
+#  note:
+#  title: "Note:"
+#  color: red
