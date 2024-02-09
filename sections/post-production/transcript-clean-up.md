@@ -30,7 +30,7 @@ The steps are as follows to download an audio file:
 To open an audio file, simply double-click on the file on your computer. This will open the file in your computer’s default media player. This is the common way to open an audio file to transcribe it without the use of a transcription software. 
 
 {: .note }
-> If you are using audio captured on a smartphone, you might encounter some errors when trying to open audio captured on any Android device on an iOS/Mac device and vice versa. This will normally be caused by a file-format difference. We are still trying to troubleshoot this problem. 
+> Note: If you are using audio captured on a smartphone, you might encounter some errors when trying to open audio captured on any Android device on an iOS/Mac device and vice versa. This will normally be caused by a file-format difference. We are still trying to troubleshoot this problem. 
  
 For opening an audio file using a transcription software, there will traditionally be an “Upload Audio” button. 
 
