@@ -82,37 +82,25 @@ The audio controls are pinned to the top of this panel, allowing you to edit the
  
 Notice that not all the text from one speaker is under the same timestamp. This is because Microsoft Word’s (and other transcription software) transcription feature transcribes by when words are spoken. 
  
-Once the transcript has been fully edited, they will be condensed under one “Speaker 1”. 
- 
- 
+Once the transcript has been fully edited, they will be condensed under one “Speaker 1”.
  
 To edit the transcript: 
-Hover your cursor over the text box. A pencil icon will appear 
- 
-Select the pencil icon to open up the editing options 
- 
-This allows you to edit the name of the speaker and the text that was transcribed 
-If the checkbox labeled “Change all Speaker 1” is checked, this will change all “Speaker 1” labeled timestamps to the name inputted 
- 
- 
-Notice that all the “Speaker 1” timestamps have now changed 
-You can also update the transcription here. This example is updating the Object ID in the transcript 
- 
-Once all the change to the transcript have been made. Select “Add to document” at the bottom of the panel 
- 
-There are multiple options that can be selected here: 
-Just text 
-Text only. No speakers or timestamps will be added to the Word document 
-With speakers 
-The speaker’s name will be added to the Word document with the transcription 
-If there are multiple sections of the same speaker in the transcript in a row, they will be grouped together 
-With timestamps 
-The timestamps will be added to the Word document, separating when words were spoken 
-With speakers and timestamps 
-Both the timestamp and the speaker will be added to the Word document 
- 
- 
-After selecting an option, the transcript will auto populate in the Word document 
+1. Hover your cursor over the text box. A pencil icon will appear 
+2. Select the pencil icon to open up the editing options 
+   - This allows you to edit the name of the speaker and the text that was transcribed 
+   - If the checkbox labeled “Change all Speaker 1” is checked, this will change all “Speaker 1” labeled timestamps to the name inputted. Notice that all the “Speaker 1” timestamps have now changed. You can also update the transcription here. This example is updating the Object ID in the transcript 
+3. Once all the change to the transcript have been made. Select “Add to document” at the bottom of the panel 
+   - There are multiple options that can be selected here: 
+      1. Just text 
+         - Text only. No speakers or timestamps will be added to the Word document 
+      2. With speakers 
+         - The speaker’s name will be added to the Word document with the transcription 
+         - If there are multiple sections of the same speaker in the transcript in a row, they will be grouped together 
+      3. With timestamps 
+         - The timestamps will be added to the Word document, separating when words were spoken 
+      4. With speakers and timestamps 
+         - Both the timestamp and the speaker will be added to the Word document 
+4. After selecting an option, the transcript will auto populate in the Word document 
  
  
 Notice a few things: 
