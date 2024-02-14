@@ -104,65 +104,58 @@ To edit the transcript:
  
  
 Notice a few things: 
-The audio file is hyperlinked at the beginning of the transcript. This makes it easier for the person who contributed the oral history to locate and listen to it 
-The transcript is labeled and separated by the speaker, with all the transcriptions grouped under their name 
+- The audio file is hyperlinked at the beginning of the transcript. This makes it easier for the person who contributed the oral history to locate and listen to it 
+- The transcript is labeled and separated by the speaker, with all the transcriptions grouped under their name 
+
 Other transcription softwares don’t include the audio file in the transcription and require additional steps to export the transcript into a readable document. This is the reason we recommend using a Microsoft365 account, OneDrive, and Word within OneDrive.  
  
 ### Best Practices for Cleaning a Generated Transcript 
 Transcription software is not 100% accurate.  
  
-Some common erros the software makes include: 
-Adding in punctuation based on breaks in the audio and tone of voice 
-Misspelling names and locations 
-Inserting the wrong word 
-Many more 
+Some common errors the software makes include: 
+- Adding in punctuation based on breaks in the audio and tone of voice 
+- Misspelling names and locations 
+- Inserting the wrong word 
+- Many more 
  
 When cleaning a generated transcript: 
-Listen to the audio carefully and in small chunks to follow along and fix the errors easily 
-It is possible that a word or phrase was not recognized by the transcription software and is therefore not in the transcript 
-Do not add in punctuation while editing in the side panel 
-Add and remove punctuation once the transcript has been added to the document 
-Decide on whether to include pause-words such as “um” and “like” in the final transcript (see more below) 
-If another language is present, remember you have two options: 
-Upload the audio file in another document with the second language selected  
-Transcribe the second language by hand 
- 
- 
- 
- 
+1. Listen to the audio carefully and in small chunks to follow along and fix the errors easily 
+   - It is possible that a word or phrase was not recognized by the transcription software and is therefore not in the transcript 
+2. Do not add in punctuation while editing in the side panel 
+   - Add and remove punctuation once the transcript has been added to the document 
+3. Decide on whether to include pause-words such as “um” and “like” in the final transcript (see more below) 
+4. If another language is present, remember you have two options: 
+   - Upload the audio file in another document with the second language selected  
+   - Transcribe the second language by hand 
   
- 
- 
- 
- 
- 
 ## What to Include in a Transcription 
 This is a common question that we as a team at IDAH constantly struggle with. Do we include every “um” or “like” in the transcript for its full authenticity? Do we go through and correct the grammar? Do we remove the duplicated words? The answer to these and similar questions, unfortunately, is that it is up to you, your team, and the overarching goals of your community archive. 
+
 ### For Returning Files to Contributors 
 For returning the contributor’s raw files, clean up for the transcription should be kept to a minimum. This includes: 
-Naming who is speaking throughout the transcript using the naming convention you and your team decide on 
-Flagging words and/or phrases and having another person listen to the transcription for any low-quality or soft-spoken sections 
+- Naming who is speaking throughout the transcript using the naming convention you and your team decide on 
+- Flagging words and/or phrases and having another person listen to the transcription for any low-quality or soft-spoken sections 
+
 Keeping the files and the transcript alteration at a minimum allows for the contributor to have their experience preserved best. 
  
- 
-An example screenshot of a transcript that uses repeated words 
+ An example screenshot of a transcript that uses repeated words 
  
 ### Preparing Files for Upload 
 For preparing the transcripts for upload, normally the cleaner the transcript, the better. This includes: 
-Naming who is speaking throughout the transcript using the naming convention you and your team decide on 
-Flagging words and/or phrases and having another person listen to the transcription for any low-quality or soft-spoken sections 
-Deciding on whether or not to have timestamps added throughout the transcript 
-“00:00:01 Interviewer: Example Question Here”  
-“00:01:34 Contributor Name: Example Response Here” 
+1. Naming who is speaking throughout the transcript using the naming convention you and your team decide on 
+2. Flagging words and/or phrases and having another person listen to the transcription for any low-quality or soft-spoken sections 
+3. Deciding on whether or not to have timestamps added throughout the transcript 
+   - “00:00:01 Interviewer: Example Question Here”  
+   - “00:01:34 Contributor Name: Example Response Here” 
 Or: 
-“Interviewer: Example Transcript Here” 
-“Contributor Name: Example Response” 
-Removing repeated words 
-Removing pause-words such as “um” and “like” 
+   - “Interviewer: Example Transcript Here” 
+   - “Contributor Name: Example Response” 
+4. Removing repeated words 
+5. Removing pause-words such as “um” and “like” 
  
 When preparing transcripts for uploading, think of someone reading them like they would read a book or a published newspaper interview: 
-What information would they need to read in the transcript in order to get the best picture of what was talked about? 
-What would you and your team include from the transcript so the reader could feel like they were listening to the recording and not just reading it? 
+- What information would they need to read in the transcript in order to get the best picture of what was talked about? 
+- What would you and your team include from the transcript so the reader could feel like they were listening to the recording and not just reading it? 
  
  
 
