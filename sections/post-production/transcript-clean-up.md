@@ -147,7 +147,6 @@ For preparing the transcripts for upload, normally the cleaner the transcript, t
 3. Deciding on whether or not to have timestamps added throughout the transcript 
    - “00:00:01 Interviewer: Example Question Here”  
    - “00:01:34 Contributor Name: Example Response Here” 
-Or: 
    - “Interviewer: Example Transcript Here” 
    - “Contributor Name: Example Response” 
 4. Removing repeated words 
