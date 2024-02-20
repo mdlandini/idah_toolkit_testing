@@ -20,7 +20,7 @@ This section covers how to create a markdown file on an iPhone, using a web brow
 
 - Navigate to the folder where you want to file to live. In this example, we are creating a new item in a repository called *Sandbox*.
 
-<img src=./assets/images/iphone-markdown-creation/iphone-markdown-one.jpg alt="image" width="200" height="60" />
+<img src=./../../assets/images/iphone-markdown-creation/iphone-markdown-one.jpg alt="image" width="200" height="60" />
 
 - In the top right corner, select the three dots. This gives you the option to create a new file (what we are using in this example) or to upload files from your iPhone.
 
