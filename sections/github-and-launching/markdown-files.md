@@ -31,7 +31,9 @@ This section covers how to create a markdown file on an iPhone, using a web brow
 ![](../../assets/images/iphone-markdown-creation/iphone-markdown-three.jpg)
 
 4. This screen lets your type in a more detailed coomment for the file you are creating (it is the same screen for any changes that are made). This is an optional step to provide more detail.
+   
    You will also see two options to either commit to the main branch or create a new branch. **By default, you will want to create to the main branch.** Creating a new branch is outside the scope of this toolkit.
+
    If you are ready to create the file, push *Commit changes* again.
 
 ![](../../assets/images/iphone-markdown-creation/iphone-markdown-four.jpg)
