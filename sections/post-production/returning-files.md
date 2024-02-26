@@ -30,7 +30,7 @@ Before you start, it will be easier to create a csv file for the mail merge proc
 3. Save the file as a csv file extension.
 
 ### Returning Files with Mail Merge
-This section ccovers how to send contributors their contributions using a mail merge feature. 
+This section covers how to send contributors their contributions using a mail merge feature. 
 > Note: For this guide, we will be using Microsoft Outlook and Microsoft Word on a Microsoft365 Account. The process for mail merge is roughly the same across systems, but youu might have to Google *"insert system mail merge"*.
 
 1. To start, the email that you are wanting to send the contributions back from must be ***the default email*** account in Outlook. 
@@ -63,3 +63,11 @@ Once these steps are complete, Outlook will create a draft and queue for each em
 > Note: Depending on the number of contributions, this will take some time (upwards of 5-10 minutes for large mail merges). We recommend not touching Outlook until all the emails are sucessfully sent.
 
 ### Returing Files without Mail Merge
+This secion covers how to send contributors their files without using a mail merge feature. 
+
+Without mail merge, this is a slightly more tedious process because yyou will have to draft each email and send them individually.
+    - We have a template available for download <a href="https://github.com/mdlandini/idah_toolkit_testing/blob/main/assets/images/Email%20Template%20for%20Sharing%20Files.docx">here.</a>
+        - To download this template, click the link and then click "view raw". This will start the download process.
+
+Simply draft your email in your inbox and copy over the links that you have prepared for each contributor's folder in the onlinee storage of your choosing. 
+> Note: If you are not uusing an online storage to store the files, you can attach them to the email as ZIP folder from your computer.
