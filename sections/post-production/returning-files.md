@@ -23,5 +23,6 @@ This section ccovers how to send contributors their contributions using a mail m
 
 2. With Outlook still open, navigate to Word and draft the email to send back to contributors.
     - We have a template available for download <a href="https://github.com/mdlandini/idah_toolkit_testing/blob/main/assets/images/Email%20Template%20for%20Sharing%20Files.docx">here.</a>
+        - To download this template, click the link and then click "view raw". This will start the download process.
 
 ### Returing Files without Mail Merge
