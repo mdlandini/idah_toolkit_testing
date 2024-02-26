@@ -22,6 +22,6 @@ This section ccovers how to send contributors their contributions using a mail m
     - To set this, navigate to Settings -> Accounts to view all accounts, select the account you want as the default, and on Mac, use the arrows in the bottom left corner to move the email to the top/on PC, sign-in with the email account you want to use.
 
 2. With Outlook still open, navigate to Word and draft the email to send back to contributors.
-    - We have a template available for download <a href="https://github.com/mdlandini/idah_toolkit_testing/blob/main/assets/images/Email%20Template%20for%20Sharing%20Files.docx" target="here" />
+    - We have a template available for download <a href="https://github.com/mdlandini/idah_toolkit_testing/blob/main/assets/images/Email%20Template%20for%20Sharing%20Files.docx">here.</a>
 
 ### Returing Files without Mail Merge
